@@ -1,0 +1,8 @@
+namespace Camunda
+{
+    interface TopicSubscription
+    {
+        
+
+    }
+}
